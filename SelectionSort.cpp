@@ -1,5 +1,5 @@
  //find the minimum element in the unsorted array and swap it with element at beggining
-
+//o(n^2)
 #include <iostream>
 using namespace std;
  
